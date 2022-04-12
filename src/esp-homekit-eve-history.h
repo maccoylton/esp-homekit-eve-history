@@ -9,6 +9,7 @@
 #define esp_homekit_eve_history_h
 
 #define EVE_HISTORY_LOG_HEADER_SIZE 10
+#define EVE_HISTORY_LOG_ENERGY_SIZE 10
 #define EVE_HISTORY_STATUS_SIZE 37
 #define EVE_EPOCH_OFFSET    978307200
 #define EVE_HISTORY_MAX_LOG_ENTRIES 10
